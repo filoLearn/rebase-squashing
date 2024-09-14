@@ -1,0 +1,2 @@
+# rebase-squashing
+rebase-squashing
